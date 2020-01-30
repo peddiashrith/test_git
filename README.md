@@ -8,3 +8,4 @@
 	3. ./a.out which is a executable file. When it starts executing it asks for input filename (eg: loop.micro or sqrt.micro which should be entered in terminal) from which it reads the file
 3. clean
 	1. which removes intermediate files
+	2. Just now tried git ssh key
