@@ -1,1 +1,2 @@
 hello world hai dear
+checking without fetch
