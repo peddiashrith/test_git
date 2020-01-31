@@ -1,6 +1,6 @@
 # pa1-peddiashrith
 ### Makefile contains following targets:
-1. team
+#### team
 	1. prints our team and team member names
 2. compiler	
 	1. lex lex.l where lex.l is file in which instructions are wrote
